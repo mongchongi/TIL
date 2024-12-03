@@ -41,3 +41,4 @@ Today I Learned : 학습 내용 정리
 - [Object](https://github.com/mongchongi/TIL/blob/main/JavaScript/object.md)
 - [SSR(Server-Side Rendering) & CSR(Client-Side Rendering)](https://github.com/mongchongi/TIL/blob/main/JavaScript/ssr-csr.md)
 - [데이터 바인딩](https://github.com/mongchongi/TIL/blob/main/JavaScript/data-binding.md)
+- [문자 중간에 변수 넣는 방법](https://github.com/mongchongi/TIL/blob/main/JavaScript/putting-variable-in-string.md)
