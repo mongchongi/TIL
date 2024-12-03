@@ -37,3 +37,5 @@ Today I Learned : 학습 내용 정리
 - [이벤트 버블링 응용](https://github.com/mongchongi/TIL/blob/main/JavaScript/event-bubbling-application.md)
 - [dataset](https://github.com/mongchongi/TIL/blob/main/JavaScript/dataset.md)
 - [쓸만한 JavaScript 라이브러리](https://github.com/mongchongi/TIL/blob/main/JavaScript/javascript-library.md)
+- [Array](https://github.com/mongchongi/TIL/blob/main/JavaScript/array.md)
+- [Object](https://github.com/mongchongi/TIL/blob/main/JavaScript/object.md)
