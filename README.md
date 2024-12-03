@@ -33,3 +33,7 @@ Today I Learned : 학습 내용 정리
 - [scroll 이벤트](https://github.com/mongchongi/TIL/blob/main/JavaScript/scroll-event.md)
 - [for 반복문](https://github.com/mongchongi/TIL/blob/main/JavaScript/for-loop.md)
 - [좋은 코드인지 확인하는 방법](https://github.com/mongchongi/TIL/blob/main/JavaScript/check-for-good-code.md)
+- [이벤트 버블링 & 이벤트 관련 함수](https://github.com/mongchongi/TIL/blob/main/JavaScript/bubbling-events-functions.md)
+- [이벤트 버블링 응용](https://github.com/mongchongi/TIL/blob/main/JavaScript/event-bubbling-application.md)
+- [dataset](https://github.com/mongchongi/TIL/blob/main/JavaScript/dataset.md)
+- [쓸만한 JavaScript 라이브러리](https://github.com/mongchongi/TIL/blob/main/JavaScript/javascript-library.md)
