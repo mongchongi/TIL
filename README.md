@@ -40,3 +40,4 @@ Today I Learned : 학습 내용 정리
 - [Array](https://github.com/mongchongi/TIL/blob/main/JavaScript/array.md)
 - [Object](https://github.com/mongchongi/TIL/blob/main/JavaScript/object.md)
 - [SSR(Server-Side Rendering) & CSR(Client-Side Rendering)](https://github.com/mongchongi/TIL/blob/main/JavaScript/ssr-csr.md)
+- [데이터 바인딩](https://github.com/mongchongi/TIL/blob/main/JavaScript/data-binding.md)
