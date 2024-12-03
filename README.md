@@ -23,3 +23,4 @@ Today I Learned : 학습 내용 정리
 - [input & change 이벤트](https://github.com/mongchongi/TIL/blob/main/JavaScript/15-input-change-event.md)
 - [truthy & falsy](https://github.com/mongchongi/TIL/blob/main/JavaScript/16-truthy-falsy.md)
 - [논리 연산자](https://github.com/mongchongi/TIL/blob/main/JavaScript/17-logical-operator.md)
+- [변수](https://github.com/mongchongi/TIL/blob/main/JavaScript/18-variable.md)
