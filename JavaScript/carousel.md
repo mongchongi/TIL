@@ -4,13 +4,13 @@
 <div style="overflow: hidden">
   <div class="slide-container">
     <div class="slide-box">
-      <img src="https://picsum.photos/id/11/1000/400" />
+      <img src="../images/car1.png" />
     </div>
     <div class="slide-box">
-      <img src="https://picsum.photos/id/12/1000/400" />
+      <img src="../images/car2.png" />
     </div>
     <div class="slide-box">
-      <img src="https://picsum.photos/id/13/1000/400" />
+      <img src="../images/car3.png" />
     </div>
   </div>
 </div>
