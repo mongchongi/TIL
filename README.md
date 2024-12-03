@@ -32,3 +32,4 @@ Today I Learned : 학습 내용 정리
 - [function(함수)의 return](https://github.com/mongchongi/TIL/blob/main/JavaScript/function-return.md)
 - [scroll 이벤트](https://github.com/mongchongi/TIL/blob/main/JavaScript/scroll-event.md)
 - [for 반복문](https://github.com/mongchongi/TIL/blob/main/JavaScript/for-loop.md)
+- [좋은 코드인지 확인하는 방법](https://github.com/mongchongi/TIL/blob/main/JavaScript/check-for-good-code.md)
