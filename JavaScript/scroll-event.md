@@ -3,6 +3,8 @@
 스크롤 관련 기능을 만들 때 사용
 
 ```html
+<!-- Bootstrap 사용 -->
+
 <body style="height: 3000px">
   <nav class="navbar bg-body-tertiary">
     <div class="container-fluid">
