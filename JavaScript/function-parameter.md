@@ -1,4 +1,4 @@
-# function(함수)의 파라미터
+# function(함수)의 parameter
 
 하나의 함수로 다양한 코드를 실행할 때 사용
 
