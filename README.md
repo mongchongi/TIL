@@ -39,3 +39,4 @@ Today I Learned : 학습 내용 정리
 - [쓸만한 JavaScript 라이브러리](https://github.com/mongchongi/TIL/blob/main/JavaScript/javascript-library.md)
 - [Array](https://github.com/mongchongi/TIL/blob/main/JavaScript/array.md)
 - [Object](https://github.com/mongchongi/TIL/blob/main/JavaScript/object.md)
+- [SSR(Server-Side Rendering) & CSR(Client-Side Rendering)](https://github.com/mongchongi/TIL/blob/main/JavaScript/ssr-csr.md)
